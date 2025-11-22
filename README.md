@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> , I'm Yash Sisodia</h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-sisodiaa&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-- 🔭 I’m currently working on **React Js**
+- 🔭 I’m currently working on **React Js and Node Js**
 
 - 👯 I’m looking to collaborate **with others having same interest as of mine.**
 
